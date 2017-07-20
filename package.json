@@ -1,0 +1,12 @@
+{
+  "name": "california-counties-by-zip",
+  "version": "1.0.0",
+  "description": "JSON of California counties by zip code.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Titcomb",
+  "license": "Unlicense",
+  "homepage": "https://github.com/ravenstine/california-counties-by-zip"
+}
